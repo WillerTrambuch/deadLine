@@ -5,18 +5,9 @@
 }
 
 .toolbar{
-    display: flex;
-    align-items: center;
-    height: 64px;
-    padding: 0 24px;
-    justify-content: space-between;
 }
 
 .main{
-    height: 100vh;
-    display: flex;
-    width: 1200px;
-    margin: 0 auto;
 }
 
 .navbar{
